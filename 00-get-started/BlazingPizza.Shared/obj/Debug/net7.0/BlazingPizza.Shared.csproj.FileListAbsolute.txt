@@ -1,0 +1,16 @@
+D:\wissa\Documents\Framework\Assignment6\blazor-workshop-main\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\net7.0\BlazingPizza.ComponentsLibrary.staticwebassets.runtime.json
+D:\wissa\Documents\Framework\Assignment6\blazor-workshop-main\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\net7.0\BlazingPizza.Shared.deps.json
+D:\wissa\Documents\Framework\Assignment6\blazor-workshop-main\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\net7.0\BlazingPizza.Shared.dll
+D:\wissa\Documents\Framework\Assignment6\blazor-workshop-main\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\net7.0\BlazingPizza.Shared.pdb
+D:\wissa\Documents\Framework\Assignment6\blazor-workshop-main\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\net7.0\BlazingPizza.ComponentsLibrary.dll
+D:\wissa\Documents\Framework\Assignment6\blazor-workshop-main\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\net7.0\BlazingPizza.ComponentsLibrary.pdb
+D:\wissa\Documents\Framework\Assignment6\blazor-workshop-main\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.csproj.AssemblyReference.cache
+D:\wissa\Documents\Framework\Assignment6\blazor-workshop-main\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\wissa\Documents\Framework\Assignment6\blazor-workshop-main\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.AssemblyInfoInputs.cache
+D:\wissa\Documents\Framework\Assignment6\blazor-workshop-main\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.AssemblyInfo.cs
+D:\wissa\Documents\Framework\Assignment6\blazor-workshop-main\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.csproj.CoreCompileInputs.cache
+D:\wissa\Documents\Framework\Assignment6\blazor-workshop-main\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.csproj.CopyComplete
+D:\wissa\Documents\Framework\Assignment6\blazor-workshop-main\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.dll
+D:\wissa\Documents\Framework\Assignment6\blazor-workshop-main\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net7.0\refint\BlazingPizza.Shared.dll
+D:\wissa\Documents\Framework\Assignment6\blazor-workshop-main\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.pdb
+D:\wissa\Documents\Framework\Assignment6\blazor-workshop-main\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net7.0\ref\BlazingPizza.Shared.dll
